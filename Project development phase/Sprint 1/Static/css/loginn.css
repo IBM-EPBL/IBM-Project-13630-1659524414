@@ -1,0 +1,32 @@
+body{
+    font-family:'Times New Roman';
+    text-align: center;
+    
+    
+    background-image: url(img/showroomm.jpg)  ;
+    background-size: 100% ;
+
+}
+form{
+    background-color:rgba(0, 0, 0, 0.722);
+    max-width:500px;
+    height:290px;
+    padding:35px;
+    margin-top: 5%;
+
+    margin-left: 33%;
+    margin-right: 33%; 
+    border-radius: 12px;
+    border: 1px;
+    
+}
+label,h1,h5{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+input{
+    background: transparent;
+}
